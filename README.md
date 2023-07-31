@@ -8,7 +8,6 @@
 
 I work as a Software engineer who has extensive background in Web application development. I have 7+ years of experience with front-end and back-end experience and a passion for responsive website design and secure backend service. I am skilled in Web Development Microservice and Database Management using JavaScript, PHP, Python as a primary language and using its frameworks.
 
-- 📫 How to reach me: &nbsp; best.dev0322@gmail.com
 ---
 
 ### 🛠 &nbsp;Languages and Tools :
