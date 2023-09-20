@@ -3,15 +3,6 @@
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 <p align="center">
 </p>
-
-### :woman_technologist: &nbsp;About Me :
-
-I work as a Software engineer who has extensive background in Web application development. I have 7+ years of experience with front-end and back-end experience and a passion for responsive website design and secure backend service. I am skilled in Web Development Microservice and Database Management using JavaScript, PHP, Python as a primary language and using its frameworks.
-
----
-
-### 🛠 &nbsp;Languages and Tools :
-
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="VueJS"  alt="VueJS" width="40" height="40"/>&nbsp;
